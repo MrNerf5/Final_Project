@@ -12,6 +12,7 @@ Python
 https://www.brookings.edu
 https://www.britannica.com/
 ChatGTP.com
+https://online.uc.edu/blog/artificial-intelligence-ai-benefits/
 
 I use ChatGTP for as a start and that a guide for to edit the code
 then I made two files one of the orginal and the other a copy
